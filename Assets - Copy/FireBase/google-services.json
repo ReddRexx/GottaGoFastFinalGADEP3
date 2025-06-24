@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607334050047",
+    "project_id": "gottagofast-f81d3",
+    "storage_bucket": "gottagofast-f81d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607334050047:android:0ff885bec1f39664a404ca",
+        "android_client_info": {
+          "package_name": "com.vega.GottaGoFast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkOBxOCz2Umsr9nf5grwO1LhQz44UlFyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
